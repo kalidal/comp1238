@@ -1,5 +1,3 @@
-# comp1238 lab wk03
-
 # Number row characters 
 - !  Exclamatioin point
 - @  at sign, address sign
@@ -13,13 +11,9 @@
 - ) Close parenthesis
 
 # Links
-- [Github](https://github.com/)
 - [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 - [ASCII](https://www.ascii-code.com/)
 
   # Experiments
-  Emojis
-  - :smile:
-  -  :yum:
-  -  :stuck_out_tongue: 
+  Emojis  :smile:  :stuck_out_tongue: 
 
