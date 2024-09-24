@@ -1,5 +1,5 @@
 # Number row characters 
-- !  Exclamatioin point
+- !  Exclamation mark
 - @  at sign, address sign
 - \# Hashtag, number symbol
 - $ Cash symbol
