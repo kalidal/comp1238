@@ -13,6 +13,7 @@
 # Links
 - [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 - [ASCII](https://www.ascii-code.com/)
+- [CLI Commands](./cli.md)
 
 # Experiments
   Emojis  :smile:  :stuck_out_tongue: 
