@@ -66,4 +66,16 @@ SELECT min(due_date)
 from assignments
 where status LIKE 'Completed' 
 
+--optional 
 
+--Count of "Not Started" Assignments
+select count(*)
+from assignments
+where status like 'Not Started'
+
+--courses with labs on tuesdays
+select course_id, course_name
+from courses
+where lab_time LIKE	'Tue%'
+
+--
